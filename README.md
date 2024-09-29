@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VINAYAKGOTTUR</h1>
 <h3 align="center">A passionate full stack developer from Karnataka, India</h3>
  
-<img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakgottur&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakgottur" /> </p>
 
