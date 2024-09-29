@@ -1,3 +1,4 @@
+![logo](https://github.com/VINAYAKGOTTUR/VINAYAKGOTTUR/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm VINAYAKGOTTUR</h1>
 <h3 align="center">A passionate full stack developer from Karnataka, India</h3>
  
